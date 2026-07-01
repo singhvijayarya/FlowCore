@@ -320,7 +320,7 @@ vijaykumar006205@gmail.com
 Password
 
 ```
-<your-admin-password>
+vijay@6205
 ```
 
 > For public repositories, avoid committing real credentials. Use your local admin account or create a fresh one after setup.
